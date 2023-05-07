@@ -11,9 +11,9 @@ To get started, simply clone the repository and open the index.html file in your
 + The footer includes an image and a credit line.
 
 # Technologies Used
--HTML
--CSS
--Tailwind CSS
+- HTML
+- CSS
+- Tailwind CSS
 
 # Acknowledgments
 This blog page is a sample project created for demonstration purposes only. The content and images used are not original and are used only for demonstration purposes. Tailwind CSS is an excellent framework for rapid development and is highly recommended for anyone looking to streamline their CSS workflow.
